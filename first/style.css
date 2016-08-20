@@ -1,0 +1,86 @@
+html, body {
+  min-width: 400px;
+  min-height: 600px;
+  height: 100%;
+  width: 100%;
+}
+.header {
+  display: inline-block;
+  height: 25%;
+  width: 25%;
+  background-color: #99ccff;
+  margin-right: 5%;
+  margin-top: 15px;
+  margin-left: 5%;
+}
+.one {
+  display: inline-block;
+  height: 25%;
+  width: 25%;
+  background-color: #99ccff;
+  margin-top: 15px;
+  margin-left: 18px;
+}
+.two {
+  display: inline-block;
+  height: 25%;
+  width: 25%;
+  background-color: #99ccff;
+  float: right;
+  margin-right: 5%;
+  margin-top: 15px;
+  margin-left: 5%;
+}
+#txt {
+  font-size: 20px;
+  font-family: cursive;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.container {
+  height: 35%;
+  width: 90%;
+  background-color: #993333;
+  position: relative;
+  margin-left: 5%;
+  margin-right: 45px;
+}
+.box {
+  height: 100%;
+  width: 30%;
+  background-color: #669999;
+  float: left;
+  position: absolute;
+}
+.footer {
+  height: 15%;
+  width: 90%;
+  background-color: #663300;
+  margin-top: 13px;
+  position: relative;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.three {
+  height: 100%;
+  width: 30%;
+  background-color: gray;
+  float: right;
+  position: relative;
+}
+.four {
+  height: 100%;
+  width: 20%;
+  background-color: #003366;
+  position: absolute;
+  bottom: 0;
+  right: 4.5%;
+}
+p {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+h3 {
+  margin-left: 5%;
+  margin-right: 5%;
+}
