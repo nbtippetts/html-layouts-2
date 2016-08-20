@@ -5,31 +5,36 @@ html, body {
   width: 100%;
 }
 .header {
-  display: inline-block;
+  position: relative;
   height: 25%;
-  width: 25%;
-  background-color: #99ccff;
+  width: 90%;
+  background-color: white;
   margin-right: 5%;
   margin-top: 15px;
   margin-left: 5%;
 }
 .one {
   display: inline-block;
-  height: 25%;
-  width: 25%;
+  height: 100%;
+  width: 30%;
   background-color: #99ccff;
-  margin-top: 15px;
-  margin-left: 18px;
+
+
 }
 .two {
   display: inline-block;
-  height: 25%;
-  width: 25%;
+  height: 100%;
+  width: 30%;
   background-color: #99ccff;
   float: right;
-  margin-right: 5%;
-  margin-top: 15px;
   margin-left: 5%;
+}
+.thre {
+  display: inline-block;
+  height: 100%;
+  width: 30%;
+  background-color: #99ccff;
+  float: right;
 }
 #txt {
   font-size: 20px;
