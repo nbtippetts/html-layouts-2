@@ -1,0 +1,144 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffe6;
+}
+.container {
+  height: 80%;
+  width: 80%;
+  margin-left: 8%;
+  margin-right: 5%;
+  margin-top: 2%;
+  background-color: gray;
+  border: solid black;
+}
+#txt {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: monospace;
+}
+.w3-btn {
+    background-color: #669999;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+
+}
+.w4-btn {
+    background-color: #52527a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.w3-btn:hover {
+  background-color: #003366;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  margin-left: 10px;
+  margin-right: 5px;
+  text-decoration: underline;
+}
+.w4-btn:hover {
+  background-color: #660000;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.wrap {
+    height: 150%;
+    width: 80%;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 2%;
+    background-color: gray;
+    border: solid black;
+    position: relative;
+}
+img {
+   margin-left: 11%;
+   border: solid black;
+
+}
+#text {
+  text-align: center;
+  font-size: 19px;
+  font-family: fantasy;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.truth {
+  font-size: 17px;
+  font-family: cursive;
+  font-weight: bolder;
+  margin-left: 10%;
+}
+.footer {
+  height: 80px;
+  width: 100%;
+  position: relative;
+  background-color: #132639;
+  margin-top: 2%;
+}
+.w5-btn {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  float: right;
+}
+.w6-btn {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  float: right;
+}
+.w5-btn:hover {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+.w6-btn:hover {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+span {
+  font-weight: bolder;
+  font-family: cursive;
+}
