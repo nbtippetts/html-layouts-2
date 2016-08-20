@@ -84,7 +84,10 @@ h1 {
   width: 96%;
   background-color: #333333;
   position: absolute;
-  top: 210%;
+  top: 260%;
   margin-left: 1.5%;
   margin-right: 5%;
+}
+div {
+  font-family: cursive;
 }
