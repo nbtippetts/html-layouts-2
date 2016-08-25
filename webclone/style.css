@@ -38,7 +38,7 @@ html, body {
 .bigpic {
   width: 100%;
   height: 500px;
-  margin-top: 4.4%;
+  margin-top: 55px;
 }
 .bigpic img {
   position: absolute;
@@ -105,6 +105,7 @@ html, body {
 .w3-btn a:hover {
   background-color: #99ff33;
 }
+
 .container{
   background-color: #e6e6e6;
 }
@@ -346,6 +347,7 @@ html, body {
     top: 28%;
     right: 45%;
     display: none;
+    z-index: 1;
 }
 .img-1:hover #logo-1 {
   display: block;
@@ -383,6 +385,7 @@ html, body {
     top: 28%;
     right: 45%;
     display: none;
+    z-index: 1;
 }
 .img-2:hover #logo-2 {
   display: block;
@@ -420,6 +423,7 @@ html, body {
     top: 28%;
     right: 45%;
     display: none;
+    z-index: 1;
 }
 .img-3:hover #logo-3 {
   display: block;
@@ -457,6 +461,7 @@ html, body {
     top: 28%;
     right: 45%;
     display: none;
+    z-index: 1;
 }
 .img-a:hover #logo-a {
   display: block;
@@ -494,6 +499,7 @@ html, body {
     top: 28%;
     right: 45%;
     display: none;
+    z-index: 1;
 }
 .img-b:hover #logo-b {
   display: block;
@@ -531,6 +537,7 @@ html, body {
     top: 28%;
     right: 45%;
     display: none;
+    z-index: 1;
 }
 .img-c:hover #logo-c {
   display: block;
